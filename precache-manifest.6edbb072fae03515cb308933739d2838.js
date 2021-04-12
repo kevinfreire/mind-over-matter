@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32a4233496dd16edc19d74d35615e06e",
+    "revision": "28ff435e86d7169d0d2eaa63bdd4c665",
     "url": "/mind-over-matter/index.html"
   },
   {
-    "revision": "7dda259b0ad1fcfcc99c",
+    "revision": "6797af5dffa225dc52bc",
     "url": "/mind-over-matter/static/css/main.c5a3ee5c.chunk.css"
   },
   {
-    "revision": "584253c34b1e11324da1",
-    "url": "/mind-over-matter/static/js/2.f9155b10.chunk.js"
+    "revision": "6e0f52135c24cf3c9788",
+    "url": "/mind-over-matter/static/js/2.1b8ad8ad.chunk.js"
   },
   {
     "revision": "8dbc9bd92b344a5deca62eeacc09fc2d",
-    "url": "/mind-over-matter/static/js/2.f9155b10.chunk.js.LICENSE.txt"
+    "url": "/mind-over-matter/static/js/2.1b8ad8ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7dda259b0ad1fcfcc99c",
-    "url": "/mind-over-matter/static/js/main.ef6e2c26.chunk.js"
+    "revision": "6797af5dffa225dc52bc",
+    "url": "/mind-over-matter/static/js/main.657d1a1d.chunk.js"
   },
   {
     "revision": "eeb3c6fd21663c422fc5",
@@ -116,6 +116,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mind-over-matter/static/media/olu-eletu.4112cbc1.jpg"
   },
   {
+    "revision": "4a22bea8fcbc4c480091c7fe6b02aa42",
+    "url": "/mind-over-matter/static/media/one-minute.4a22bea8.jpg"
+  },
+  {
     "revision": "baf6b40a654b078399e93e3d9cb6d455",
     "url": "/mind-over-matter/static/media/profile-bg.baf6b40a.jpg"
   },
@@ -148,6 +152,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mind-over-matter/static/media/studio-5.ef5c30ea.jpg"
   },
   {
+    "revision": "7b2abec98ab84822d3dbb9dede14903d",
+    "url": "/mind-over-matter/static/media/ted-talks-daily.7b2abec9.png"
+  },
+  {
     "revision": "6d370eb39b1a40f05c57deeae0389f90",
     "url": "/mind-over-matter/static/media/the-grain-brain-cover.6d370eb3.jpg"
   },
@@ -156,8 +164,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mind-over-matter/static/media/the-happiness-advantage-cover.89eeb3cc.jpg"
   },
   {
+    "revision": "09b958d61b874283640e1238a1ca2ccd",
+    "url": "/mind-over-matter/static/media/the-mindset-mentor.09b958d6.jpeg"
+  },
+  {
     "revision": "f64f361c5142de5d2fc25b62d5d217fd",
     "url": "/mind-over-matter/static/media/the-power-of-habit-cover.f64f361c.png"
+  },
+  {
+    "revision": "d08499d096406f439ba89a17b1ad608b",
+    "url": "/mind-over-matter/static/media/the-school-of-greatness.d08499d0.jpg"
   },
   {
     "revision": "2609778e20a280cff53cf11a2e66946a",
