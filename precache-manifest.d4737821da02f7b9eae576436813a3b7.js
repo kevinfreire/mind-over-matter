@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28ff435e86d7169d0d2eaa63bdd4c665",
+    "revision": "e7543d7816de265649fd17bb08979200",
     "url": "/mind-over-matter/index.html"
   },
   {
-    "revision": "6797af5dffa225dc52bc",
+    "revision": "cb3faff982f5686e6cea",
     "url": "/mind-over-matter/static/css/main.c5a3ee5c.chunk.css"
   },
   {
-    "revision": "6e0f52135c24cf3c9788",
-    "url": "/mind-over-matter/static/js/2.1b8ad8ad.chunk.js"
+    "revision": "2ac3e7782372a33d8fde",
+    "url": "/mind-over-matter/static/js/2.3f5a2acc.chunk.js"
   },
   {
     "revision": "8dbc9bd92b344a5deca62eeacc09fc2d",
-    "url": "/mind-over-matter/static/js/2.1b8ad8ad.chunk.js.LICENSE.txt"
+    "url": "/mind-over-matter/static/js/2.3f5a2acc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6797af5dffa225dc52bc",
-    "url": "/mind-over-matter/static/js/main.657d1a1d.chunk.js"
+    "revision": "cb3faff982f5686e6cea",
+    "url": "/mind-over-matter/static/js/main.f55c04b4.chunk.js"
   },
   {
     "revision": "eeb3c6fd21663c422fc5",
     "url": "/mind-over-matter/static/js/runtime-main.5693c926.js"
   },
   {
-    "revision": "d193634d0757f6b75b999da40da8a1cd",
-    "url": "/mind-over-matter/static/media/12-rules-of-life-cover.d193634d.jpg"
+    "revision": "788d5614298641d0ac31048cc0c12655",
+    "url": "/mind-over-matter/static/media/12-rules-of-life-cover.788d5614.jpg"
+  },
+  {
+    "revision": "ac167f2070c928af03bb639682ddf999",
+    "url": "/mind-over-matter/static/media/_Logo-black.ac167f20.png"
   },
   {
     "revision": "6024687e47a57010054d59e61f33e26a",
@@ -80,8 +84,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mind-over-matter/static/media/clem-onojeghuo.216ef03c.jpg"
   },
   {
+    "revision": "14a9c44be8936874b42449ce746749a2",
+    "url": "/mind-over-matter/static/media/creed.14a9c44b.jpg"
+  },
+  {
     "revision": "9813593cc577a319a2201342ef0fb237",
     "url": "/mind-over-matter/static/media/cynthia-del-rio.9813593c.jpg"
+  },
+  {
+    "revision": "cce440b9b1078b2abfe1e3b2150c8066",
+    "url": "/mind-over-matter/static/media/forrest-gump.cce440b9.png"
+  },
+  {
+    "revision": "f1da5bcb93b3a021bd76cd2eb2555f03",
+    "url": "/mind-over-matter/static/media/ip-man.f1da5bcb.jpg"
   },
   {
     "revision": "a58958a586d89c117e2663787e37e1f3",
@@ -94,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "08e18cb904f0f3c6dd9e3d4ed72e0eca",
     "url": "/mind-over-matter/static/media/landing.08e18cb9.jpg"
+  },
+  {
+    "revision": "d7bef027d3e4137115a2d02bc67e98c3",
+    "url": "/mind-over-matter/static/media/lessons-of-a-lakota-cover.d7bef027.jpg"
   },
   {
     "revision": "8699d9750f1a38f3170821dd8fcab45c",
@@ -120,6 +140,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mind-over-matter/static/media/one-minute.4a22bea8.jpg"
   },
   {
+    "revision": "e233709c0d4208959d1e7b54c6938ae8",
+    "url": "/mind-over-matter/static/media/patch-adams.e233709c.jpg"
+  },
+  {
     "revision": "baf6b40a654b078399e93e3d9cb6d455",
     "url": "/mind-over-matter/static/media/profile-bg.baf6b40a.jpg"
   },
@@ -128,8 +152,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mind-over-matter/static/media/profile.090a5aab.jpg"
   },
   {
+    "revision": "211b3443583f872f5a06fc7d4beb4206",
+    "url": "/mind-over-matter/static/media/rocky.211b3443.jpg"
+  },
+  {
     "revision": "cf8b686b294041d0925f4e745b1fabb9",
     "url": "/mind-over-matter/static/media/sign.cf8b686b.jpg"
+  },
+  {
+    "revision": "fdee6678dbc1babcb106f8be2a1b1d05",
+    "url": "/mind-over-matter/static/media/southpaw.fdee6678.jpg"
   },
   {
     "revision": "ae0150c08dbcc95e4f50458e02e5bd5c",
@@ -156,6 +188,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mind-over-matter/static/media/ted-talks-daily.7b2abec9.png"
   },
   {
+    "revision": "e8ef60773aecf4a9e4bf317fb21ffd7e",
+    "url": "/mind-over-matter/static/media/the-bucket-list.e8ef6077.jpg"
+  },
+  {
     "revision": "6d370eb39b1a40f05c57deeae0389f90",
     "url": "/mind-over-matter/static/media/the-grain-brain-cover.6d370eb3.jpg"
   },
@@ -172,8 +208,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mind-over-matter/static/media/the-power-of-habit-cover.f64f361c.png"
   },
   {
+    "revision": "6ba6ae94a3913ebe682c86006e100820",
+    "url": "/mind-over-matter/static/media/the-pursuit-of-happyness.6ba6ae94.png"
+  },
+  {
     "revision": "d08499d096406f439ba89a17b1ad608b",
     "url": "/mind-over-matter/static/media/the-school-of-greatness.d08499d0.jpg"
+  },
+  {
+    "revision": "626c283048ad4bf4a348ad909e4c117e",
+    "url": "/mind-over-matter/static/media/think-like-a-monk-cover.626c2830.jpg"
   },
   {
     "revision": "2609778e20a280cff53cf11a2e66946a",
