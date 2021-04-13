@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/mind-over-matter/static/css/main.c5a3ee5c.chunk.css",
-    "main.js": "/mind-over-matter/static/js/main.9b6e3be7.chunk.js",
-    "main.js.map": "/mind-over-matter/static/js/main.9b6e3be7.chunk.js.map",
+    "main.js": "/mind-over-matter/static/js/main.b4e012b7.chunk.js",
+    "main.js.map": "/mind-over-matter/static/js/main.b4e012b7.chunk.js.map",
     "runtime-main.js": "/mind-over-matter/static/js/runtime-main.5693c926.js",
     "runtime-main.js.map": "/mind-over-matter/static/js/runtime-main.5693c926.js.map",
     "static/js/2.3f5a2acc.chunk.js": "/mind-over-matter/static/js/2.3f5a2acc.chunk.js",
     "static/js/2.3f5a2acc.chunk.js.map": "/mind-over-matter/static/js/2.3f5a2acc.chunk.js.map",
     "index.html": "/mind-over-matter/index.html",
-    "precache-manifest.f423517eae4bb22b60446e6022cc709a.js": "/mind-over-matter/precache-manifest.f423517eae4bb22b60446e6022cc709a.js",
+    "precache-manifest.412bf1dc0d17f4fbda26dc60dc9db4a4.js": "/mind-over-matter/precache-manifest.412bf1dc0d17f4fbda26dc60dc9db4a4.js",
     "service-worker.js": "/mind-over-matter/service-worker.js",
     "static/css/main.c5a3ee5c.chunk.css.map": "/mind-over-matter/static/css/main.c5a3ee5c.chunk.css.map",
     "static/js/2.3f5a2acc.chunk.js.LICENSE.txt": "/mind-over-matter/static/js/2.3f5a2acc.chunk.js.LICENSE.txt",
     "static/media/12-rules-of-life-cover.jpg": "/mind-over-matter/static/media/12-rules-of-life-cover.788d5614.jpg",
-    "static/media/_Logo-black.png": "/mind-over-matter/static/media/_Logo-black.ac167f20.png",
+    "static/media/_Logo-bw.png": "/mind-over-matter/static/media/_Logo-bw.00dfae36.png",
     "static/media/a-force-for-good-cover.jpg": "/mind-over-matter/static/media/a-force-for-good-cover.6024687e.jpg",
     "static/media/avatar.jpg": "/mind-over-matter/static/media/avatar.f1d71f77.jpg",
     "static/media/bg.jpg": "/mind-over-matter/static/media/bg.e5241971.jpg",
@@ -68,6 +68,6 @@
     "static/js/runtime-main.5693c926.js",
     "static/js/2.3f5a2acc.chunk.js",
     "static/css/main.c5a3ee5c.chunk.css",
-    "static/js/main.9b6e3be7.chunk.js"
+    "static/js/main.b4e012b7.chunk.js"
   ]
 }
