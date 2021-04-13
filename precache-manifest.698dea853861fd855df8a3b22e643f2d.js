@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9be7d4b6e69b6993fde6a9443e10125",
+    "revision": "416d198a663813f3661afc33b2fcd6cb",
     "url": "/mind-over-matter/index.html"
   },
   {
-    "revision": "cf4a46861746b69c2b42",
+    "revision": "337a1fd66ac995a203e0",
     "url": "/mind-over-matter/static/css/main.c5a3ee5c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mind-over-matter/static/js/2.3f5a2acc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf4a46861746b69c2b42",
-    "url": "/mind-over-matter/static/js/main.5cb64953.chunk.js"
+    "revision": "337a1fd66ac995a203e0",
+    "url": "/mind-over-matter/static/js/main.f492bc24.chunk.js"
   },
   {
     "revision": "eeb3c6fd21663c422fc5",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "788d5614298641d0ac31048cc0c12655",
     "url": "/mind-over-matter/static/media/12-rules-of-life-cover.788d5614.jpg"
-  },
-  {
-    "revision": "ac167f2070c928af03bb639682ddf999",
-    "url": "/mind-over-matter/static/media/_Logo-black.ac167f20.png"
   },
   {
     "revision": "6024687e47a57010054d59e61f33e26a",
@@ -118,6 +114,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8699d9750f1a38f3170821dd8fcab45c",
     "url": "/mind-over-matter/static/media/lion-cover.8699d975.jpg"
+  },
+  {
+    "revision": "ac167f2070c928af03bb639682ddf999",
+    "url": "/mind-over-matter/static/media/logo-black.ac167f20.png"
   },
   {
     "revision": "4575c40bfb8dec6713d2da51c4c4066e",

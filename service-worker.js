@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mind-over-matter/precache-manifest.99594ddef30c0fe396e728dcb14195b3.js"
+  "/mind-over-matter/precache-manifest.698dea853861fd855df8a3b22e643f2d.js"
 );
 
 self.addEventListener('message', (event) => {

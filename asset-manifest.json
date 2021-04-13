@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/mind-over-matter/static/css/main.c5a3ee5c.chunk.css",
-    "main.js": "/mind-over-matter/static/js/main.5cb64953.chunk.js",
-    "main.js.map": "/mind-over-matter/static/js/main.5cb64953.chunk.js.map",
+    "main.js": "/mind-over-matter/static/js/main.f492bc24.chunk.js",
+    "main.js.map": "/mind-over-matter/static/js/main.f492bc24.chunk.js.map",
     "runtime-main.js": "/mind-over-matter/static/js/runtime-main.5693c926.js",
     "runtime-main.js.map": "/mind-over-matter/static/js/runtime-main.5693c926.js.map",
     "static/js/2.3f5a2acc.chunk.js": "/mind-over-matter/static/js/2.3f5a2acc.chunk.js",
     "static/js/2.3f5a2acc.chunk.js.map": "/mind-over-matter/static/js/2.3f5a2acc.chunk.js.map",
     "index.html": "/mind-over-matter/index.html",
-    "precache-manifest.99594ddef30c0fe396e728dcb14195b3.js": "/mind-over-matter/precache-manifest.99594ddef30c0fe396e728dcb14195b3.js",
+    "precache-manifest.698dea853861fd855df8a3b22e643f2d.js": "/mind-over-matter/precache-manifest.698dea853861fd855df8a3b22e643f2d.js",
     "service-worker.js": "/mind-over-matter/service-worker.js",
     "static/css/main.c5a3ee5c.chunk.css.map": "/mind-over-matter/static/css/main.c5a3ee5c.chunk.css.map",
     "static/js/2.3f5a2acc.chunk.js.LICENSE.txt": "/mind-over-matter/static/js/2.3f5a2acc.chunk.js.LICENSE.txt",
     "static/media/12-rules-of-life-cover.jpg": "/mind-over-matter/static/media/12-rules-of-life-cover.788d5614.jpg",
-    "static/media/_Logo-black.png": "/mind-over-matter/static/media/_Logo-black.ac167f20.png",
     "static/media/a-force-for-good-cover.jpg": "/mind-over-matter/static/media/a-force-for-good-cover.6024687e.jpg",
     "static/media/avatar.jpg": "/mind-over-matter/static/media/avatar.f1d71f77.jpg",
     "static/media/bg.jpg": "/mind-over-matter/static/media/bg.e5241971.jpg",
@@ -36,6 +35,7 @@
     "static/media/landing.jpg": "/mind-over-matter/static/media/landing.08e18cb9.jpg",
     "static/media/lessons-of-a-lakota-cover.jpg": "/mind-over-matter/static/media/lessons-of-a-lakota-cover.d7bef027.jpg",
     "static/media/lion-cover.jpg": "/mind-over-matter/static/media/lion-cover.8699d975.jpg",
+    "static/media/logo-black.png": "/mind-over-matter/static/media/logo-black.ac167f20.png",
     "static/media/mariya-georgieva.jpg": "/mind-over-matter/static/media/mariya-georgieva.4575c40b.jpg",
     "static/media/miko.jpg": "/mind-over-matter/static/media/miko.fcfb5899.jpg",
     "static/media/obiwan.JPG": "/mind-over-matter/static/media/obiwan.e9dec081.JPG",
@@ -68,6 +68,6 @@
     "static/js/runtime-main.5693c926.js",
     "static/js/2.3f5a2acc.chunk.js",
     "static/css/main.c5a3ee5c.chunk.css",
-    "static/js/main.5cb64953.chunk.js"
+    "static/js/main.f492bc24.chunk.js"
   ]
 }
