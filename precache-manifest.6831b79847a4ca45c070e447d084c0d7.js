@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e2a8ceaa4f390dd117b760d22222873",
+    "revision": "c611ee014ae6bef3dc88f884e9349988",
     "url": "/mind-over-matter/index.html"
   },
   {
-    "revision": "c078cbc489c7506a227f",
+    "revision": "471098dde3fc59ec9553",
     "url": "/mind-over-matter/static/css/main.c5a3ee5c.chunk.css"
   },
   {
-    "revision": "2ac3e7782372a33d8fde",
-    "url": "/mind-over-matter/static/js/2.3f5a2acc.chunk.js"
+    "revision": "d624853f57c1173ad9bf",
+    "url": "/mind-over-matter/static/js/2.0af73ba1.chunk.js"
   },
   {
     "revision": "8dbc9bd92b344a5deca62eeacc09fc2d",
-    "url": "/mind-over-matter/static/js/2.3f5a2acc.chunk.js.LICENSE.txt"
+    "url": "/mind-over-matter/static/js/2.0af73ba1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c078cbc489c7506a227f",
-    "url": "/mind-over-matter/static/js/main.44f8cf14.chunk.js"
+    "revision": "471098dde3fc59ec9553",
+    "url": "/mind-over-matter/static/js/main.096254d8.chunk.js"
   },
   {
     "revision": "eeb3c6fd21663c422fc5",
