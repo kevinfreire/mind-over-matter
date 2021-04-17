@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mind-over-matter/static/css/main.c5a3ee5c.chunk.css",
-    "main.js": "/mind-over-matter/static/js/main.096254d8.chunk.js",
-    "main.js.map": "/mind-over-matter/static/js/main.096254d8.chunk.js.map",
+    "main.js": "/mind-over-matter/static/js/main.7f2197a5.chunk.js",
+    "main.js.map": "/mind-over-matter/static/js/main.7f2197a5.chunk.js.map",
     "runtime-main.js": "/mind-over-matter/static/js/runtime-main.5693c926.js",
     "runtime-main.js.map": "/mind-over-matter/static/js/runtime-main.5693c926.js.map",
     "static/js/2.0af73ba1.chunk.js": "/mind-over-matter/static/js/2.0af73ba1.chunk.js",
     "static/js/2.0af73ba1.chunk.js.map": "/mind-over-matter/static/js/2.0af73ba1.chunk.js.map",
     "index.html": "/mind-over-matter/index.html",
-    "precache-manifest.6831b79847a4ca45c070e447d084c0d7.js": "/mind-over-matter/precache-manifest.6831b79847a4ca45c070e447d084c0d7.js",
+    "precache-manifest.b3d5bf66e184178cc31accf7ccd2ebee.js": "/mind-over-matter/precache-manifest.b3d5bf66e184178cc31accf7ccd2ebee.js",
     "service-worker.js": "/mind-over-matter/service-worker.js",
     "static/css/main.c5a3ee5c.chunk.css.map": "/mind-over-matter/static/css/main.c5a3ee5c.chunk.css.map",
     "static/js/2.0af73ba1.chunk.js.LICENSE.txt": "/mind-over-matter/static/js/2.0af73ba1.chunk.js.LICENSE.txt",
@@ -68,6 +68,6 @@
     "static/js/runtime-main.5693c926.js",
     "static/js/2.0af73ba1.chunk.js",
     "static/css/main.c5a3ee5c.chunk.css",
-    "static/js/main.096254d8.chunk.js"
+    "static/js/main.7f2197a5.chunk.js"
   ]
 }
